@@ -16,9 +16,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PkdydFVEhQnnx1s6ckAwuKZg58" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -55,7 +59,7 @@
       <workItem from="1566479954356" duration="465000" />
       <workItem from="1567081214828" duration="1749000" />
       <workItem from="1567170830030" duration="6223000" />
-      <workItem from="1567215802303" duration="2009000" />
+      <workItem from="1567215802303" duration="2620000" />
     </task>
     <servers />
   </component>
